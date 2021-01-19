@@ -12,7 +12,7 @@
 <b>Languages</b>
 - HTML
 - CSS
-And a little bit of Javascript.
+- And a little bit of Javascript.
 
 <b>Frameworks</b>
 - Bootstrap
