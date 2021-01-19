@@ -12,7 +12,8 @@
 <b>Languages</b>
 - HTML
 - CSS
+And a little bit of Javascript.
 
 <b>Frameworks</b>
-- JQuery
 - Bootstrap
+- JQuery
