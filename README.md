@@ -20,3 +20,4 @@
 <b>Learning Currently</b>
 - SASS
 - Javascript
+- Babel
