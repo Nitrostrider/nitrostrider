@@ -12,8 +12,11 @@
 <b>Languages</b>
 - HTML
 - CSS
-- And a little bit of Javascript.
 
 <b>Frameworks</b>
 - Bootstrap
 - JQuery
+
+<b>Learning Currently</b>
+- SASS
+- Javascript
