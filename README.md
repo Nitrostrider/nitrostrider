@@ -18,6 +18,6 @@
 - JQuery
 
 <b>Learning Currently</b>
-- SASS
+- SASS, SCSS
 - Javascript
 - Babel
