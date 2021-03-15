@@ -21,3 +21,4 @@
 - SASS, SCSS
 - Javascript
 - Babel
+- React (Next.js)
