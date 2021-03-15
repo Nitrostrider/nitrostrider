@@ -22,3 +22,4 @@
 - Javascript
 - Babel
 - React (Next.js)
+- Tailwind CSS
