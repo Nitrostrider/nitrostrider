@@ -24,3 +24,4 @@
 - React (Next.js)
 - Tailwind CSS
 - Flask
+- Python
