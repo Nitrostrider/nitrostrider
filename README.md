@@ -13,7 +13,7 @@
 - HTML
 - CSS
 
-<b>Frameworks</b>
+<b>Frameworks/Libraries</b>
 - Bootstrap
 - JQuery
 
