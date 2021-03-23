@@ -23,5 +23,8 @@
 - Babel
 - React (Next.js)
 - Tailwind CSS
-- Flask
 - Python
+
+<b>Things To Learn</b>
+- Flask
+- Tensorflow.js
