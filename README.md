@@ -28,3 +28,4 @@
 <b>Things To Learn</b>
 - Flask
 - Tensorflow.js
+- Gatsby JS
