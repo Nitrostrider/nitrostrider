@@ -24,8 +24,10 @@
 - React (Next.js)
 - Tailwind CSS
 - Python
+- EJS
 
 <b>Things To Learn</b>
 - Flask
 - Tensorflow.js
 - Gatsby JS
+- Express
