@@ -9,10 +9,6 @@
 >
 > If you want to go far, go together.
 
-<b>Languages</b>
-- HTML
-- CSS
-
 <b>Frameworks/Libraries</b>
 - Bootstrap
 - JQuery
