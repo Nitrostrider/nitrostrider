@@ -8,24 +8,3 @@
 > If you want to go fast, go alone. 
 >
 > If you want to go far, go together.
-
-<b>Frameworks/Libraries</b>
-- Bootstrap
-- JQuery
-
-<b>Learning Currently</b>
-- SASS, SCSS
-- Javascript
-- Babel
-- React (Next.js)
-- Tailwind CSS
-- Python
-- EJS
-
-<b>Things To Learn</b>
-- Flask
-- Tensorflow.js
-- Gatsby JS
-- Express
-- MongoDB/Mongoose
-- C# (and also .NET)
